@@ -47,3 +47,28 @@ Conference on Artificial General Intelligence (AGI-09)</a></li>
   
 
 </ul>
+
+</br>
+
+<h2 id="firstHeading" class="firstHeading" lang="en"><a title="David Ferrucci" href="https://en.wikipedia.org/wiki/David_Ferrucci">David Ferrucci</a></h2>
+<p><strong>David Ferrucci</strong>&nbsp;was the&nbsp;<a title="Principal investigator" href="https://en.wikipedia.org/wiki/Principal_investigator">principal investigator</a>&nbsp;who in 2007&ndash;2011 led a team of&nbsp;<a title="IBM" href="https://en.wikipedia.org/wiki/IBM">IBM</a>&nbsp;and academic researchers and engineers&nbsp;to the development of the&nbsp;<a title="Watson (computer)" href="https://en.wikipedia.org/wiki/Watson_(computer)">Watson</a>&nbsp;computer system that won a television quiz.</p>
+<p>Ferrucci graduated from Manhattan College, with a B.S. degree in biology and from&nbsp;<a title="Rensselaer Polytechnic Institute" href="https://en.wikipedia.org/wiki/Rensselaer_Polytechnic_Institute">Rensselaer Polytechnic Institute</a>, in 1994 with a Ph.D. degree in computer science specializing in knowledge representation and reasoning.&nbsp;He joined IBM's Thomas J. Watson in 1995 and left in 2012 to join&nbsp;<a title="Bridgewater Associates" href="https://en.wikipedia.org/wiki/Bridgewater_Associates">Bridgewater Associates</a>.&nbsp;He is also the Founder, CEO, and Chief Scientist of&nbsp;<a class="external text" href="https://www.elementalcognition.com/" rel="nofollow">Elemental Cognition</a>, a venture exploring a new field of study called&nbsp;<a class="external text" href="https://poptech.org/popcasts/machines_as_thought_partners" rel="nofollow">natural learning</a>, which Ferrucci describes as 'artificial intelligence that understands the world the way people do.</p>
+<p>Ferrucci is interviewed in the 2018 documentary on artificial intelligence&nbsp;<a title="Do You Trust This Computer?" href="https://en.wikipedia.org/wiki/Do_You_Trust_This_Computer%3F">Do You Trust This Computer?</a></p>
+<p>&nbsp;</p>
+<p><strong>Publications:</strong></p><hr>
+
+<p>&nbsp;</p>
+<ul>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/daf(1).pdf">Building Watson: An Overview of the DeepQA Project</a></li>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/daf(2).pdf">Watson: Beyond Jeopardy!</a></li>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/daf(3).pdf">Overview of Component Services for Knowledge Integration in UIMA (a.k.a. SUKI)</a></li>
+  
+</ul>
+
+
+
+
+
+
+
+
