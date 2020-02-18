@@ -21,6 +21,30 @@
 <p>He has more recently been noted for his belief that a major war between the supporters and opponents of intelligent machines, resulting in billions of deaths, is almost inevitable before the end of the 21st century.&nbsp;He suggests AIs may simply eliminate the human race, and humans would be powerless to stop them because of&nbsp;<a title="Technological singularity" href="https://en.wikipedia.org/wiki/Technological_singularity">technological singularity</a>. This prediction has attracted debate and criticism from the AI research community, and some of its more notable members, such as&nbsp;<a title="Kevin Warwick" href="https://en.wikipedia.org/wiki/Kevin_Warwick">Kevin Warwick</a>,&nbsp;<a title="Bill Joy" href="https://en.wikipedia.org/wiki/Bill_Joy">Bill Joy</a>,&nbsp;<a title="Ken MacLeod" href="https://en.wikipedia.org/wiki/Ken_MacLeod">Ken MacLeod</a>,&nbsp;<a title="Ray Kurzweil" href="https://en.wikipedia.org/wiki/Ray_Kurzweil">Ray Kurzweil</a>, and&nbsp;<a title="Hans Moravec" href="https://en.wikipedia.org/wiki/Hans_Moravec">Hans Moravec</a>, have voiced their opinions on whether or not this future is likely.</p>
 <p>De Garis originally studied&nbsp;<a title="Theoretical physics" href="https://en.wikipedia.org/wiki/Theoretical_physics">theoretical physics</a>, but he abandoned this field in favour of artificial intelligence. In 1992 he received his PhD from&nbsp;<a class="mw-redirect" title="Universit&eacute; Libre de Bruxelles" href="https://en.wikipedia.org/wiki/Universit%C3%A9_Libre_de_Bruxelles">Universit&eacute; Libre de Bruxelles</a>, Belgium. He worked as a researcher at ATR (Advanced Telecommunications Research Institute International,&nbsp;<a class="extiw" title="ja:国際電気通信基礎技術研究所" href="https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E9%9B%BB%E6%B0%97%E9%80%9A%E4%BF%A1%E5%9F%BA%E7%A4%8E%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E6%89%80">国際電気通信基礎技術研究所</a>), Japan from 1994&ndash;2000, a researcher at&nbsp;<a title="Starlab" href="https://en.wikipedia.org/wiki/Starlab">Starlab</a>, Brussels from 2000&ndash;2001, and associate professor of computer science at&nbsp;<a title="Utah State University" href="https://en.wikipedia.org/wiki/Utah_State_University">Utah State University</a>&nbsp;from 2001&ndash;2006. Until his retirement in late 2010&nbsp;he was a professor at&nbsp;<a title="Xiamen University" href="https://en.wikipedia.org/wiki/Xiamen_University">Xiamen University</a>, where he taught&nbsp;<a title="Theoretical physics" href="https://en.wikipedia.org/wiki/Theoretical_physics">theoretical physics</a>&nbsp;and&nbsp;<a title="Computer science" href="https://en.wikipedia.org/wiki/Computer_science">computer science</a>, and ran the Artificial Brain Lab.</p>
 <p>&nbsp;</p>
-<p><strong>Publications:</strong></p>
+<p><strong>Publications:</strong></p> <hr>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<ul>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(1).pdf">2001: A Space Odyssey</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(2).pdf">Neuromancer</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(3).pdf">I, Robot</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(4).pdf">Berserker Man</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(5).pdf">The Lifecycle Of Software Objects</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(6).pdf">Do Androids Dream of Electric Sheep?</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(7).pdf">Ender's Game</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(8).pdf">City of Golden Shadow</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(9).pdf">Excession</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(10).pdf">Daemon</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(11).pdf">The Adolescence of P-1</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(12).pdf">The Two Faces of Tomorrow</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(13).pdf">Destination: Void</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(14).pdf">House of Suns</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(15).pdf">Hyperion</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(16).pdf">Newton's Wake: A Space Opera</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(17).pdf">Pandora's Star</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(18).pdf">The Metamorphosis of Prime Intellect</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(19).pdf">Queen of Angels</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(20).pdf">The Diamond Age</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(21).pdf">The Moon is a Harsh Mistress</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(22).pdf">When Harlie Was One</a></li>
+<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(23).pdf">Www: Wake</a></li>
+</ul>
