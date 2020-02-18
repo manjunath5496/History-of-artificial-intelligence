@@ -24,27 +24,10 @@
 <p><strong>Publications:</strong></p> <hr>
 <p>&nbsp;</p>
 <ul>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(1).pdf">2001: A Space Odyssey</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(2).pdf">Neuromancer</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(3).pdf">I, Robot</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(4).pdf">Berserker Man</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(5).pdf">The Lifecycle Of Software Objects</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(6).pdf">Do Androids Dream of Electric Sheep?</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(7).pdf">Ender's Game</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(8).pdf">City of Golden Shadow</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(9).pdf">Excession</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(10).pdf">Daemon</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(11).pdf">The Adolescence of P-1</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(12).pdf">The Two Faces of Tomorrow</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(13).pdf">Destination: Void</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(14).pdf">House of Suns</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(15).pdf">Hyperion</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(16).pdf">Newton's Wake: A Space Opera</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(17).pdf">Pandora's Star</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(18).pdf">The Metamorphosis of Prime Intellect</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(19).pdf">Queen of Angels</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(20).pdf">The Diamond Age</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(21).pdf">The Moon is a Harsh Mistress</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(22).pdf">When Harlie Was One</a></li>
-<li><a href="https://github.com/manjunath5496/Top-23-Best-Artificial-Intelligence-Science-Fiction-Books/blob/master/bf(23).pdf">Www: Wake</a></li>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/hug(1).pdf">What If AI Succeeds? The Rise of the Twenty-First Century Artilect</a></li>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/hug(2).PDF">The 21st. CENTURY ARTILECT: Moral Dilemmas Concerning the Ultra Intelligent Machine</a></li>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/hug(3).pdf">THE ARTILECT WAR: Cosmists vs. Terrans</a></li>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/hug(4).pdf">A world survey of artificial brain projects, Part I: Large-scale brain simulations</a></li>
+<li><a href="https://github.com/manjunath5496/History-of-artificial-intelligence/blob/master/hug(5).pdf">Artificial Embryology - The Genetic Programming of an Artificial Embryo </a></li>
+
 </ul>
